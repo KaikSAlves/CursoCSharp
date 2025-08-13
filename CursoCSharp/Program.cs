@@ -24,6 +24,7 @@ namespace CursoCSharp {
                 //Estrutuas de Controle de Fluxo
                 
                 {"Estrutura IF- Estrutura de Controle" , Estruturaif.Executar},
+                {"Estrutura Switch Case - Estrutura de Controle" , EstrutraSwitchCase.Executar},
                 
             });
 
