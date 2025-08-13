@@ -1,6 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
-
+using CursoCSharp.EstruturasDeControle;
 using CursoCSharp.Fundamentos;
 
 namespace CursoCSharp {
@@ -20,6 +20,10 @@ namespace CursoCSharp {
                 {"Operadores Relacionais - Fundamentos" , OperadoresRelacionais.Executar},
                 {"Operadores Unarios - Fundamentos" , OperadoresUnarios.Executar},
                 {"Operadores Ternarios - Fundamentos" , OperadorTernarios.Executar},
+                
+                //Estrutuas de Controle de Fluxo
+                
+                {"Estrutura IF- Estrutura de Controle" , Estruturaif.Executar},
                 
             });
 
