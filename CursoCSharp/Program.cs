@@ -12,6 +12,7 @@ namespace CursoCSharp {
                 {"Variáveis e Constantes - Fundamentos" , VariaveisEConstantes.Executar},
                 {"Inferencia de Tipos - Fundamentos" , Inferencia.Executar},
                 {"Inteporlação - Fundamentos" , Interpolacao.Executar},
+                {"Notação Ponto - Fundamentos" , NotacaoPonto.Executar},
             });
 
             central.SelecionarEExecutar();
