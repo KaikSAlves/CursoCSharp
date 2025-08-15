@@ -27,3 +27,4 @@ C:\Users\kaiks\RiderProjects\CursoCSharp\CursoCSharp\obj\Debug\net8.0\refint\Cur
 C:\Users\kaiks\RiderProjects\CursoCSharp\CursoCSharp\obj\Debug\net8.0\CursoCSharp.pdb
 C:\Users\kaiks\RiderProjects\CursoCSharp\CursoCSharp\obj\Debug\net8.0\CursoCSharp.genruntimeconfig.cache
 C:\Users\kaiks\RiderProjects\CursoCSharp\CursoCSharp\obj\Debug\net8.0\ref\CursoCSharp.dll
+C:\Users\kaiks\source\repos\CursoCSharp\CursoCSharp\obj\Debug\net8.0\CursoCSharp.sourcelink.json
