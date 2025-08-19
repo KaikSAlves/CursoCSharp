@@ -44,6 +44,8 @@ namespace CursoCSharp {
                 {"Props - Classes e Metodos" , Props.Executar},
                 {"Readonly - Classes e Metodos" , Props.Executar},
                 {"Exemplos Enums - Classes e Metodos" , ExemploEnum.Executar},
+                {"Struct - Classes e Metodos" , ExemploStruct.Executar},
+                
                 
                 
                 
