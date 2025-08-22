@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using CursoCSharp.APi;
 using CursoCSharp.EstruturasDeControle;
 using CursoCSharp.Fundamentos;
 using CursoCSharp.ClassesEMetodos;
@@ -67,6 +68,9 @@ namespace CursoCSharp {
                                 
                 {"Exemplo de Expressão Lambda - Metodos e Funções" , ExemploLambda.Executar},
                 {"Delegate - Metodos e Funções" , LambdaDelegate.Executar},
+                
+                //API
+                {"Datetime - API's" , ExemploDatetime.Executar},
                 
                 
             });
