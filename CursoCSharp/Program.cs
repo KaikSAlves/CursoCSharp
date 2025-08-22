@@ -4,6 +4,7 @@ using CursoCSharp.EstruturasDeControle;
 using CursoCSharp.Fundamentos;
 using CursoCSharp.ClassesEMetodos;
 using CursoCSharp.Colecoes;
+using CursoCSharp.OO;
 
 namespace CursoCSharp {
     class Program {
@@ -56,7 +57,10 @@ namespace CursoCSharp {
                 {"List - Coleções" , Colecoes.List.Executar},
                 {"ArrayList - Coleções" , Colecoes.ArrayList.Executar},
                 
+                //Orientação a Objetos
                 
+                {"Herança - Orientação a Objetos" , Heranca.Executar},
+                                
                 
                 
                 
