@@ -66,6 +66,7 @@ namespace CursoCSharp {
                 //Metodos e Funçoes
                                 
                 {"Exemplo de Expressão Lambda - Metodos e Funções" , ExemploLambda.Executar},
+                {"Delegate - Metodos e Funções" , LambdaDelegate.Executar},
                 
                 
             });
