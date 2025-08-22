@@ -7,6 +7,7 @@ using CursoCSharp.ClassesEMetodos;
 using CursoCSharp.Colecoes;
 using CursoCSharp.MetodosEFuncoes;
 using CursoCSharp.OO;
+using CursoCSharp.TopicosAvancados;
 
 namespace CursoCSharp {
     class Program {
@@ -72,6 +73,9 @@ namespace CursoCSharp {
                 //API
                 {"Datetime - API's" , ExemploDatetime.Executar},
                 
+                //Topicos Avançados
+                
+                {"LINQ - Tópicos Avançados" , LINQ1.Executar},
                 
             });
 
