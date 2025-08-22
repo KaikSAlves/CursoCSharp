@@ -4,6 +4,7 @@ using CursoCSharp.EstruturasDeControle;
 using CursoCSharp.Fundamentos;
 using CursoCSharp.ClassesEMetodos;
 using CursoCSharp.Colecoes;
+using CursoCSharp.MetodosEFuncoes;
 using CursoCSharp.OO;
 
 namespace CursoCSharp {
@@ -61,8 +62,10 @@ namespace CursoCSharp {
                 
                 {"Herança - Orientação a Objetos" , Heranca.Executar},
                 {"Encapsulamento - Orientação a Objetos" , Encapsulamento.Executar},
-                                
                 
+                //Metodos e Funçoes
+                                
+                {"Exemplo de Expressão Lambda - Metodos e Funções" , ExemploLambda.Executar},
                 
                 
             });
