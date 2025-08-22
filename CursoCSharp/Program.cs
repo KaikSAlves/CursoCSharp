@@ -75,7 +75,8 @@ namespace CursoCSharp {
                 
                 //Topicos Avançados
                 
-                {"LINQ - Tópicos Avançados" , LINQ1.Executar},
+                {"LINQ 1 - Tópicos Avançados" , LINQ1.Executar},
+                {"LINQ 2 - Tópicos Avançados" , LINQ2.Executar},
                 
             });
 
